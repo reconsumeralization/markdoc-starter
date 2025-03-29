@@ -10,8 +10,8 @@
     "@markdoc/next.js": "latest",
     "next": "latest",
     "prismjs": "latest",
-    "react": "latest",
-    "react-dom": "latest"
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
   },
   "devDependencies": {
     "@types/node": "latest",
