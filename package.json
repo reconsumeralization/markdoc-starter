@@ -6,7 +6,7 @@
     "start": "next start"
   },
   "dependencies": {
-    "@markdoc/markdoc": "latest",
+    "@markdoc/markdoc": "^0.5.2",
     "@markdoc/next.js": "latest",
     "next": "latest",
     "prismjs": "latest",
